@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-lite/static/css/main.a236027e.css",
+    "main.js": "/portfolio-lite/static/js/main.c7c1c2e6.js",
+    "static/media/abhi.jpeg": "/portfolio-lite/static/media/abhi.05489ae94829a99b4cc7.jpeg",
+    "index.html": "/portfolio-lite/index.html",
+    "main.a236027e.css.map": "/portfolio-lite/static/css/main.a236027e.css.map",
+    "main.c7c1c2e6.js.map": "/portfolio-lite/static/js/main.c7c1c2e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a236027e.css",
+    "static/js/main.c7c1c2e6.js"
+  ]
+}
